@@ -1,4 +1,4 @@
-﻿# coindcx-API .
+﻿# coindcx-API . Save the fee on margin interest
 #Use the latest v2 script.  u can learn how to use it by going through example script  
   
   
