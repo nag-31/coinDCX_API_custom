@@ -12,8 +12,8 @@ import json
 import time
 import requests
 
-coin_api="25eb8ed699880c349597ba1dc2d2d7a42cea03922d8145b7"
-coin_secret="1ce15223aefb8217c2cbda8862b3cbeada14957dbf10849df058888942463ed1"
+coin_api="paste ur api here"
+coin_secret="paste your secret here"
 
 cancel_url = "https://api.coindcx.com/exchange/v1/margin/cancel"
 fetch_url = "https://api.coindcx.com/exchange/v1/margin/fetch_orders"
